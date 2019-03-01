@@ -1,0 +1,6 @@
+framework module Pods_MontyHall {
+  umbrella header "Pods-MontyHall-umbrella.h"
+
+  export *
+  module * { export * }
+}
